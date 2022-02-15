@@ -1,0 +1,14 @@
+{
+  "name": "lyndsay-therapies",
+  "version": "1.0.0",
+  "description": "Lindsay Palmieri Therapies",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "author": "da3a <da3a@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
